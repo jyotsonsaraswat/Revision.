@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+}
+img{
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+.whi{
+    text-align: center;
+    color: black;
+    background-color: beige;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+}
+#Ace, #Neji{
+    background-color: antiquewhite;
+}
