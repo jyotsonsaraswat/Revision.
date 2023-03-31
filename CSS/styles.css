@@ -1,4 +1,6 @@
-
+div{
+    background-color: beige;
+}
 #bl, .header{
     background-color: black;
     color: white;
@@ -19,7 +21,7 @@ img{
     font-size: 20px;
 }
 #Ace, #Neji{
-    background-color: antiquewhite;
+    background-color: beige;
 }
 .lnk{
     color: white;
