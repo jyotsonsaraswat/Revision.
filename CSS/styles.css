@@ -1,7 +1,10 @@
 div{
     background-color: beige;
 }
-#bl, .header{
+
+
+#bl, .header
+{
     background-color: black;
     color: white;
     text-align: center;
