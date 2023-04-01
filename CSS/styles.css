@@ -23,6 +23,7 @@ img{
 #Ace, #Neji{
     background-color: beige;
     font-family: "Courier New", Courier, monospace;
+    text-align: left;
 }
 .lnk{
     color: white;
